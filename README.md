@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Thursday, 22 July, 13:11 GMT-5.
+My name is Juan Carlos  and today is Thursday, 22 July, 14:20 GMT-5.
 
 <p>I am developer
 </p>
@@ -24,3 +24,4 @@ My name is Juan Carlos  and today is Thursday, 22 July, 13:11 GMT-5.
 <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+[![Jcarlosmarino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlosmarino)](https://github.com/anuraghazra/github-readme-stats)
