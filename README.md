@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Thursday, GMT-5.
+My name is Juan Carlos  and today is Thursday, 22 July, 13:11 GMT-5.
 
 <p>I am developer
 </p>
