@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Tuesday, 27 July, 17:16 GMT-5.
+My name is Juan Carlos  and today is Tuesday, 27 July, 17:21 GMT-5.
 
 <p>I am developer
 </p>
@@ -24,12 +24,8 @@ My name is Juan Carlos  and today is Tuesday, 27 July, 17:16 GMT-5.
 <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+ 
+ **this week i spent my time on:**
+ 
 <!--START_SECTION:waka-->
-```text
-YAML         1 hr 16 mins    ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-Bash         1 hr 14 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.99 % 
-Markdown     54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-JavaScript   41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Other        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-```
 <!--END_SECTION:waka-->
