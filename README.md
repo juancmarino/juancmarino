@@ -25,4 +25,11 @@ My name is Juan Carlos  and today is Tuesday, 27 July, 17:16 GMT-5.
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 <!--START_SECTION:waka-->
+```text
+YAML         1 hr 16 mins    ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Bash         1 hr 14 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.99 % 
+Markdown     54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+JavaScript   41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Other        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+```
 <!--END_SECTION:waka-->
