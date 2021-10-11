@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Monday, 11 October, 13:12 GMT-5.
+My name is Juan Carlos  and today is Monday, 11 October, 17:08 GMT-5.
 
 <p>I am developer
 </p>
@@ -25,4 +25,7 @@ My name is Juan Carlos  and today is Monday, 11 October, 13:12 GMT-5.
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
  
-
+ **this week i spent my time on:**
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
