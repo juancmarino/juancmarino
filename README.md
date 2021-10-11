@@ -25,14 +25,4 @@ My name is Juan Carlos  and today is Monday, 11 October, 13:12 GMT-5.
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
  
- **this week i spent my time on:**
- 
-<!--START_SECTION:waka-->
-```text
-Python   13 hrs 36 mins  ███████████████▓░░░░░░░░░   62.82 % 
-HTML     2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Bash     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-YAML     1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Other    33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-```
-<!--END_SECTION:waka-->
+
