@@ -28,4 +28,11 @@ My name is Juan Carlos  and today is Thursday, 21 October, 13:13 GMT-5.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+```text
+TypeScript   5 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Python       4 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 % 
+Bash         3 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+JSON         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Text         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+```
 <!--END_SECTION:waka-->
