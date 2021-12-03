@@ -28,4 +28,11 @@ My name is Juan Carlos  and today is Friday, 3 December, 12:14 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+```text
+Python            2 hrs 5 mins    ████████████████████▓░░░░   83.11 % 
+TypeScript        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Gettext Catalog   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+HTML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+CSV               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
 <!--END_SECTION:waka-->
