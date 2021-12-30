@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Wednesday, 29 December, 12:14 GMT-6.
+My name is Juan Carlos  and today is Thursday, 30 December, 12:14 GMT-6.
 
 <p>I am developer
 </p>
@@ -28,8 +28,4 @@ My name is Juan Carlos  and today is Wednesday, 29 December, 12:14 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
-```text
-YAML     45 mins         ███████████████████▓░░░░░   79.09 % 
-Python   11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-```
 <!--END_SECTION:waka-->
