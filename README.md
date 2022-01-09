@@ -28,4 +28,7 @@ My name is Juan Carlos  and today is Sunday, 9 January, 12:14 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
