@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Saturday, 5 February, 12:11 GMT-6.
+My name is Juan Carlos  and today is Sunday, 6 February, 12:12 GMT-6.
 
 <p>I am developer
 </p>
@@ -28,11 +28,4 @@ My name is Juan Carlos  and today is Saturday, 5 February, 12:11 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
-```text
-Bash         3 hrs 48 mins   ██████████████░░░░░░░░░░░   55.53 % 
-Python       49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JavaScript   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Other        31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
 <!--END_SECTION:waka-->
