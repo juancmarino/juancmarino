@@ -28,4 +28,10 @@ My name is Juan Carlos  and today is Sunday, 27 February, 12:14 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+
+```text
+Python       9 hrs 3 mins    ████████████████████░░░░░   79.87 %
+Other        1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+```
+
 <!--END_SECTION:waka-->
