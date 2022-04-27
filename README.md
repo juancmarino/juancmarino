@@ -30,12 +30,11 @@ My name is Juan Carlos  and today is Tuesday, 26 April, 13:16 GMT-5.
 <!--START_SECTION:waka-->
 
 ```text
-Python             4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.62 %
-YAML               3 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-Docker             1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-JSON               59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Text               46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Bash               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Python       4 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.67 %
+YAML         2 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Docker       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
