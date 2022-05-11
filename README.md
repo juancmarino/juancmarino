@@ -28,4 +28,10 @@ My name is Juan Carlos  and today is Wednesday, 11 May, 13:16 GMT-5.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+
+```text
+YAML         2 hrs           ███████████▓░░░░░░░░░░░░░   46.78 %
+Other        43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+```
+
 <!--END_SECTION:waka-->
