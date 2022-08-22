@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Sunday, 21 August, 13:03 GMT-5.
+My name is Juan Carlos  and today is Monday, 22 August, 13:03 GMT-5.
 
 <p>I am developer
 </p>
@@ -28,11 +28,4 @@ My name is Juan Carlos  and today is Sunday, 21 August, 13:03 GMT-5.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
-
-```text
-Python       2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-JavaScript   2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Other        2 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-```
-
 <!--END_SECTION:waka-->
