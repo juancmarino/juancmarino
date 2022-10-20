@@ -1,6 +1,6 @@
 # Hi, welcome.
 
-My name is Juan Carlos  and today is Wednesday, 19 October, 13:11 GMT-5.
+My name is Juan Carlos  and today is Thursday, 20 October, 13:14 GMT-5.
 
 <p>I am developer
 </p>
@@ -28,12 +28,4 @@ My name is Juan Carlos  and today is Wednesday, 19 October, 13:11 GMT-5.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   6 hrs 59 mins   ██████████████████░░░░░░░   71.61 %
-Python       1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-YAML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-```
-
 <!--END_SECTION:waka-->
