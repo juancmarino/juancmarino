@@ -28,4 +28,9 @@ My name is Juan Carlos  and today is Tuesday, 15 November, 12:03 GMT-6.
  **this week i spent my time on:**
  
 <!--START_SECTION:waka-->
+
+```text
+Other        1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+```
+
 <!--END_SECTION:waka-->
