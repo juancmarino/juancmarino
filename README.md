@@ -24,9 +24,7 @@ My name is Juan Carlos  and today is Wednesday, 16 November, 12:03 GMT-6.
 <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
- 
- **this week i spent my time on:**
- 
+  
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
