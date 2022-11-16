@@ -1,9 +1,8 @@
-# Hi, welcome.
+# Hi there 👋
 
-My name is Juan Carlos  and today is Wednesday, 16 November, 12:03 GMT-6.
 
-<p>I am developer
-</p>
+I'm a Full-Stack Developer working in CDMX, México.
+
 <h3>Things I code with</h3>
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
