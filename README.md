@@ -30,7 +30,7 @@ My name is Juan Carlos  and today is Tuesday, 15 November, 12:03 GMT-6.
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+Other        58 mins         █████████▓░░░░░░░░░░░░░░░   39.23 %
 ```
 
 <!--END_SECTION:waka-->
