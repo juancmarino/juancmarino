@@ -8,7 +8,7 @@ I'm a Full-Stack Developer working in CDMX, México.
 
 ### Badges
 
-- [Describe the core architectural components of Azure](https://learn.microsoft.com/api/achievements/share/en-us/juancmarino/VPSV428M?sharingId=820D5AB36D4E0286)-
+- [Describe the core architectural components of Azure](https://learn.microsoft.com/api/achievements/share/en-us/juancmarino/VPSV428M?sharingId=820D5AB36D4E0286)
 - [Describe cloud service types](https://learn.microsoft.com/api/achievements/share/en-us/juancmarino/98REWCDU?sharingId=820D5AB36D4E0286)
 - [Describe the benefits of using cloud services](https://learn.microsoft.com/api/achievements/share/en-us/juancmarino/WYZJFWJN?sharingId=820D5AB36D4E0286)
 - [Describe cloud computing](https://learn.microsoft.com/api/achievements/share/en-us/juancmarino/CHXPXSZ9?sharingId=820D5AB36D4E0286)
